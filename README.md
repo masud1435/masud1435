@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Masud Mohamed</h1>
-<h3 align="center">A passionate full stack developer from Somalia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masud1435&label=Profile%20views&color=0e75b6&style=flat" alt="masud1435" /> </p>
 
