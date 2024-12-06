@@ -18,6 +18,7 @@
 <a href="https://fb.com/https://www.facebook.com/masud1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/masud1435" height="30" width="40" /></a>
 <a href="https://instagram.com/mascud1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mascud1435" height="30" width="40" /></a>
 <a href="https://discord.gg/masudmohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[masudmohamed](https://discord.com/channels/@masudmohamed/1257396430549811303)" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/masud-mohamed1435/">Linkedin</a>
 </p>
 
 
