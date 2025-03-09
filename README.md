@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masud1435" alt="masud1435" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/masud222002" target="blank"><img src="https://img.shields.io/twitter/follow/masud222002?logo=twitter&style=for-the-badge" alt="masud222002" /></a> </p>
+<p align="left"> <a href="https://twitter.com/masud222002" target="blank"><img src="https://img.shields.io/twitter/follow/masud222002?logo=twitter&style=for-the-badge" alt="masud222002" ></a> </p>
 
 - 🌱 I’m currently learning **c++ course**
 
